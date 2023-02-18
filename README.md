@@ -7,3 +7,4 @@ This repository contains code for the final project of "Spacecraft Dynamics" by 
 * Attitude error evaluator (in terms of Modified Rodrigues' Parameters)
 * RK4 integrator to simulate state dynamics
 * Controller with PD law implemented, having constants tuned according to given specifications. It is responsible for driving the angular velocity to zero and aligning the body frame to the reference frame
+* Determine mission mode as a function of time (orbit position)
